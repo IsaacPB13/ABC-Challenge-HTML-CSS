@@ -1,3 +1,20 @@
+h3:hover{
+    color: blue;
+}
+
+h3:active{
+    color: cyan;
+}
+
+.col-4:hover{
+    color:brown
+}
+
+.col-4:active{
+    color: deeppink;
+}
+
+
 body{
     background-color: gray;
 }
@@ -14,10 +31,3 @@ h3{
     color:red;
 }
 
-.col-4:hover{
-    color:brown
-}
-
-.col-4:active{
-    color: deeppink;
-}
