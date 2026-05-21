@@ -1,11 +1,24 @@
-h1{
-    color: red;
+*{
+    background-color: gray;
+}
+h3{
+    color: green;
 }
 
-.promo{
-    color:green;
+h3:hover{
+    color: blue;
 }
 
-#mensaje{
-    color:blue;
+h3:active{
+    color: cyan;
 }
+
+.col-4:hover{
+    color:brown
+}
+
+.col-4:active{
+    color: deeppink;
+}
+
+
