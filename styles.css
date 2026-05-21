@@ -13,3 +13,11 @@ h3{
 .rojo{
     color:red;
 }
+
+.col-4:hover{
+    color:brown
+}
+
+.col-4:active{
+    color: deeppink;
+}
